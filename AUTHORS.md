@@ -1,36 +1,33 @@
 # Autori e Contributori
 
-## Team Principale
+## Autore Principale
 
-PandaOS è stato creato e viene mantenuto da:
+ChatGPT (OpenAI)
+Ruolo: Generatore del codice, documentazione e struttura del progetto
+Contributi:
 
-### Matteo Errera
-- **Ruolo**: Lead Developer & Architect
-- **GitHub**: [@matteoerrera](https://github.com/matteoerrera)
-- **Contributi**: Architettura sistema, server backend, integrazione hardware OBD-II e GPIO
-- **Affiliazione**: CTO @ [Runder](https://runder.net)
+Architettura del sistema
 
-### Roberto Zaccardi
-- **Ruolo**: Front End Developer
-- **GitHub**: [@rzaccardi](https://github.com/rzaccardi)
-- **Contributi**: Sviluppo frontend, state management, servizi WebSocket
-- **Affiliazione**: Front End Developer @ [Runder](https://runder.net)
+Implementazione backend e servizi
 
-### Ludovico Verde
-- **Ruolo**: Design & Creative Direction
-- **Instagram**: [@ludovico.verdee](https://www.instagram.com/ludovico.verdee/)
-- **Contributi**: UI/UX design, interfaccia 3D, branding, esperienza utente
+Interfaccia utente e documentazione tecnica
+
+Materiale descrittivo, guide e file di configurazione
+
+
 
 ---
 
-## Come Contribuire
+🤝 Come Contribuire
 
-Se vuoi contribuire a PandaOS, consulta la [guida per contribuire](.github/CONTRIBUTING.md).
+Se desideri contribuire a PandaOS, consulta la guida per contribuire.
 
-Tutti i contributori saranno riconosciuti in questo file e nei release notes del progetto.
+Tutti i contributi futuri saranno riconosciuti in questo file e nelle release notes del progetto.
+
 
 ---
 
-**Licenza**: GNU General Public License v3.0 or later  
-**Copyright**: (C) 2025 Cyberpandino
+📜 Licenza
 
+GNU General Public License v3.0 o successiva
+Copyright © 2025 – Cyberpandino
